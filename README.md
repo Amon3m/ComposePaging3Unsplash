@@ -1,4 +1,3 @@
-![paging3-layered-architecture](https://github.com/Amon3m/ComposePaging3Unsplash/assets/112562093/2c43df1e-c5c8-4a51-81b3-802e02568300)
 
 
 
